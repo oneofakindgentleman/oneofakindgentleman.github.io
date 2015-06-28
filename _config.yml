@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Richard Gregg Edwards
-tagline:             A remembrance of Richard by his friends and family
+tagline:             A remembrance by his friends and family
 url:                 
 paginate:            1
 baseurl:             ""
@@ -28,3 +28,9 @@ author:
 version:             1.0.0
 github:
   repo:              https://github.com/oneofakindgentleman/oneofakindgentleman.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
