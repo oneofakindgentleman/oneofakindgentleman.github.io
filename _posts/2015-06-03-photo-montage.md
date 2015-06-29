@@ -2,7 +2,7 @@
 layout: post
 title: Richard through the years
 comments: true
-redirect_from: "2015-06-03-photo-montage"
+redirect_from: "/2015/06/03/photo-montage/"
 permalink: photo-montage
 ---
 
