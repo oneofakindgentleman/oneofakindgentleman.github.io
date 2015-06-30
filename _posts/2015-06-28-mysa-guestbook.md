@@ -6,7 +6,7 @@ redirect_from: "/2015/06/28/mysa-guestbook/"
 permalink: mysa-guestbook
 ---
 
-A number of people posted comments in Richard's guest book on the website for the San Antonio Express-News. That guest book is disappearing on the 4th July so the current entries have been transcribed here:
+A number of people posted comments in Richard's guest book on the website for the San Antonio Express-News. That guest book is disappearing on the 4th July so the current entries have been archived here:
 
 
 > Richard was a very nice man and always pleasant to work with. He will be missed. His comittment to patient care and service was above and beyond. ~  Judy Ramos, San Antonio, Texas. June 11, 2015
