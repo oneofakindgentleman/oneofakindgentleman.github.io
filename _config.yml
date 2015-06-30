@@ -8,7 +8,6 @@ relative_permalinks: true
 title:               Richard Gregg Edwards
 tagline:             A remembrance by his friends and family
 url:                 
-paginate:            3
 baseurl:             ""
 
 # Assets
