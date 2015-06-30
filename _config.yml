@@ -7,6 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Richard Gregg Edwards
 tagline:             A remembrance by his friends and family
+paginate:            100
 url:                 
 baseurl:             ""
 
